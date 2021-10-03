@@ -3,7 +3,7 @@ API de uma livraria utilizando springboot para apresentar como projeto da matér
 
 # Informações importantes da API:
 
-Banco h2: (path = /h2)
+Banco h2: (path = /h2) /n
         url: jdbc:h2:mem::livraria
         username: root
         password: 
@@ -17,7 +17,7 @@ Banco h2: (path = /h2)
 |  PUT             | /livros/update/{id}|  Atualiza as informações de um livros com o id especificado                             |
 |  DELETE          | /delete/{id}       |  Deleta o livro de id especificado na URL                                               |
 
-# Exemplo de objeto para testar o POST
+### Exemplo de objeto para testar o POST
 
 {
  "nome": "nome genérico",
