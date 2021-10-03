@@ -4,10 +4,10 @@ API de uma livraria utilizando springboot para apresentar como projeto da matér
 # Informações importantes da API:
 
 Banco h2: (**path =**  ```/h2 ```) 
-        ** url: ** ```jdbc:h2:mem::livraria ```
-        ** username: ** ```root```
-        ** password: ** ``` ```
-        ** driverClassName: ** ```org.h2.Driver```
+        **url:** ```jdbc:h2:mem::livraria ```
+        ** username:** ```root```
+        **password:** ``` ```
+        **driverClassName:** ```org.h2.Driver```
         
 |      Verbo HTTP  |  Caminho (path)    |                                           Descrição                                     |
 | -----------------| -------------------|---------------------------------------------------------------------------------------- |
